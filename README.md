@@ -1,6 +1,6 @@
-	------| JAVA |------
+#	------| JAVA |------
 
-Chapter 1
+__Course about JAVA
 
 	introduction to the basics of JAVA
 
