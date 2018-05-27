@@ -1,6 +1,8 @@
-# ------| JAVA |------
+#	------| JAVA |------
+
+__Course about JAVA :__ Introduction to the basics of JAVA
 
 ## Chapter 2
 
-	introduction to the basics of JAVA
-### Table and Class Method###
+**Table** and **Class Method**
+

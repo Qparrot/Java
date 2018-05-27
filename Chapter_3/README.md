@@ -1,6 +1,6 @@
 # ------| JAVA |------
-__Course on JAVA__
-	introduction to the basics of JAVA
+__Course on JAVA : __introduction to the basics of JAVA
+
 ## Chapter 3
 
 **initiation POO** and **Legacy**
