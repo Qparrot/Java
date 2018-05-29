@@ -1,5 +1,5 @@
 # ------| JAVA |------
-__Course on JAVA : __introduction to the basics of JAVA
+__Course on JAVA :__ Introduction to the basics of JAVA
 
 ## Chapter 3
 

@@ -35,7 +35,7 @@ public class City
 	}
 
 	// Return citizenNumber
-	public int getCitizenNumber
+	public int getCitizenNumberi()
 	{
 		return citizenNumber;
 	}
@@ -43,21 +43,32 @@ public class City
 	// ------ MUTATOR ------
 
 	// Set the cityName
-	public String setName(city)
+	public void setName(String city)
 	{
 		cityName = city;
 	}
 
 	// Set the countryName
-	public String setCountryName(country)
+	public void setCountryName(String country)
 	{
 		countryName = country;
 	}
 
 	// Set citizenNumber
-	public int setCitizenNumber(int nbr)
+	public void setCitizenNumber(int nbr)
 	{
-		citizenNumber = nbr;i
+		citizenNumber = nbr;
 	}
 
+	public String description()
+	{
+		String str = this.cityName + " is a city from " + this.countryName + ". It has " + this.citizenNumber + " citizen.";
+		return str;
+	}
+	
+	public String toString()
+	{
+		String str = this.cityName + " is a city from " + this.countryName + ". It has " + this.citizenNumber + " citizen.";
+		return str;
+	}
 }

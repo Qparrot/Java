@@ -1,7 +1,7 @@
 #	------| JAVA |------
 
-	__Course about Java :__ Introduction to the basics of JAVA
+__Course about JAVA :__ Introduction to the basics of JAVA
 
-## Chapter 2
+## Chapter 1
 
-	**Creation of a fonction**
+**Creation of a fonction**
