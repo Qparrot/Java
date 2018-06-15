@@ -1,4 +1,3 @@
-package	com.qp.test2;
 import	com.qp.test.A;
 import	com.qp.test.B;
 
