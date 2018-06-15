@@ -8,6 +8,11 @@ __Course on JAVA :__ Introduction to the basics of JAVA
 	1. **BuzzFizz**
 		*  Code a BuzzFizz 
 	2. **Create and Use a method MultiplyByTwo**
+		* Method
+	3. **Create a Class City and Play with some instances of it**
+		* City, PlayWithCity
+	4. **Create Heir Class and Child Class**
+		* Furniture, Desk, TableMain 
 	
 __Reference :__ 
 	Openclassrooms. Apprenez à programmer en Java
